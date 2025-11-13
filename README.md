@@ -10,7 +10,7 @@ To understand why customers are leaving the telecom company and provide data-dri
 ### 🗂️ **Dataset Information**  
 **Dataset Name:** Telecom Customer Churn  
 **Source:** Kaggle  
-**Rows:** ~7,000  
+**Rows:** ~7,043 customers
 **Key Columns:**  
 - `customerID`, `gender`, `SeniorCitizen`, `Partner`, `Dependents`  
 - `tenure`, `Contract`, `PaymentMethod`, `MonthlyCharges`, `TotalCharges`, `Churn`  
